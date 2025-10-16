@@ -1,6 +1,6 @@
 # Python Jupyter VSCode Data Science
 
-Project for creating the Renku 2.0 environment that contains python, jupyter, and VSCode and many dependencies that may be required for ORD Hackathon projects: pandas, numpy, scipy, scikit-learn, plotly, torch, transformers, pytorch-lightning, matplotlib, seaborn, tqdm, nvcc
+Project for creating the Renku 2.0 environment that contains python, jupyter, and VSCode and many dependencies that may be required for advanced ML/AI projects: pandas, numpy, scipy, scikit-learn, plotly, torch, transformers, pytorch-lightning, matplotlib, seaborn, tqdm, nvcc
 
 ## Introduction
 
